@@ -1,0 +1,26 @@
+{
+  "name": "traveller-api",
+  "version": "1.0.0",
+  "description": "A restful api built with Node JS and Mongodb",
+  "main": "src/index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.25.3",
+    "mongoose": "^5.9.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heba-mohtaram/traveller-api.git"
+  },
+  "author": "Heba Mohtaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heba-mohtaram/traveller-api/issues"
+  },
+  "homepage": "https://github.com/heba-mohtaram/traveller-api#readme"
+}
